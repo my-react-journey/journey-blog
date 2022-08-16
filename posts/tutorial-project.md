@@ -3,6 +3,8 @@ title: "The Tutorial Project - TicTacToe"
 date: "2022-08-16"
 ---
 
+![](/assets/tictactoe.webp)
+
 I believe that the best way to learn something is by doing it ⚒. And no other place helps you with that the most other than the official docs 📓.
 
 I'm gonna start learning React by building 👷‍♂️ a [TicTacToe](https://reactjs.org/tutorial/tutorial.html) game. 🎮
