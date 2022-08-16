@@ -1,6 +1,6 @@
 ---
 title: "First Blog, First Step ✨"
-date: "2022-08-16"
+date: "2022-08-15"
 ---
 
 This is the first blog in the **My React Journey** series. 🚄
