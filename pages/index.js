@@ -8,6 +8,9 @@ import { siteTitle} from '../components/config'
 import { AuthorSection } from '../components/author'
 
 export default function Home({ allPostsData }) {
+
+  fetch("https://api.countapi.xyz/hit/myreactjourney.netlify.app/visits")
+
   return (
     <Layout home>
       <Head>
